@@ -1,4 +1,7 @@
 #!/usr/bin/python
+#
+#bricked version of script used in https://www.youtube.com/watch?v=wH_pMrTdGzk
+#
 import urllib
 import urllib2
 
